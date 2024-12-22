@@ -10,7 +10,7 @@
 extends Node2D
 
 var font     = ThemeDB.fallback_font
-var fontSize = 1
+var fontSize = 10
 
 var selectedIcon = [
 	[0, 0],
